@@ -1,4 +1,4 @@
-- git clone https://github.gatech.edu/ylu433/ml3.git
+- git clone https://github.com/yilu1021/dr3.git
 - make sure you are on python 3
 - then run: python main.py
     - Cluster and dimensionality graphs will be plotted under ./plots folder
